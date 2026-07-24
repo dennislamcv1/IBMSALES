@@ -1,2 +1,5 @@
 # IBMSALES
-IBM Sales Representative Professional Certificate
+## IBM Sales Representative Professional Certificate
+### Professional Certificate - 6 course series
+
+The IBM Sales Representative Professional Certificate builds career-ready B2B sales and CRM skills for high-demand SaaS sales roles such as SDR, BDR, and Sales Representative. Across six comprehensive courses, you will gain proficiency in sales fundamentals, multi-channel prospecting, consultative selling, persuasive presentations, objection handling, strategic negotiation, closing, account management, and generative AI applications. You will apply proven methodologies such as SPIN Selling, Challenger Sale, and Solution Selling; use qualification frameworks such as BANT and TIMD; manage pipelines in CRM platforms such as Salesforce and HubSpot; build professional sales deliverables; and leverage generative AI tools to enhance key sales activities. Each course includes hands-on labs and a cumulative project that gives you practical sales experience across industries such as healthcare technology, financial services, manufacturing, retail, and SaaS. The program culminates in an integrated capstone and a bonus career-launch module with resume, interview, and job search preparation. No prior sales experience required.
